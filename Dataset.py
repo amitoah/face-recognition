@@ -10,7 +10,7 @@ face_data=[]
 
 i=0
 
-name=input("Enter your name:")
+name=input("Enter your name:") 
 
 while True:
     ret,frame=video.read()
